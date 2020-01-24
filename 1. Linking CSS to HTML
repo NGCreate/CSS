@@ -1,0 +1,41 @@
+/css
+h1	{
+	color: #54206E;
+}
+
+li	{
+	color: rgb(255,0,0); 
+}
+
+h4	{
+	color: rgba(11,99,150,1);
+}
+
+
+
+
+
+/html
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About Me</title>
+
+	<link rel="stylesheet" type="text/css" href="app.css"> <!-- this is whats important -->
+
+</head>
+<body>
+	<h1>About Me</h1>
+	<h1>About Me</h1>
+	<h1>About Me</h1>
+
+	<h4>My Hobbies:</h4>
+
+	<ul>
+		<li>Gaming</li>
+		<li>Studying</li>
+		<li>Socializing</li>
+	</ul>
+
+</body>
+</html>
